@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6218317-9049-43ab-bb51-e874d28600f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiOZGJj35Gi0MtYTj0vog7Lm0H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.drawing">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Calculator" />
+      <module name="Gettingstarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Gettingstarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SwingForm" />
+      <module name="Gettingstarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.drawing" />
+      <module name="Gettingstarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="superKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.superKeyword" />
+      <module name="Gettingstarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.drawing" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.SwingForm" />
+        <item itemvalue="Application.superKeyword" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6218317-9049-43ab-bb51-e874d28600f7" name="Default Changelist" comment="" />
+      <created>1583422014383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583422014383</updated>
+      <workItem from="1583422078725" duration="1209000" />
+      <workItem from="1583504216582" duration="11001000" />
+      <workItem from="1583763239352" duration="50000" />
+      <workItem from="1583977052705" duration="1199000" />
+      <workItem from="1584016692391" duration="6707000" />
+      <workItem from="1584105917939" duration="4973000" />
+      <workItem from="1584201079384" duration="5235000" />
+      <workItem from="1584262880299" duration="3572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583422681964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583422681964" />
+    <state width="1493" height="57" key="GridCell.Tab.0.bottom" timestamp="1584280974346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584280974346" />
+    <state width="1493" height="57" key="GridCell.Tab.0.center" timestamp="1584280974346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584280974346" />
+    <state width="1493" height="57" key="GridCell.Tab.0.left" timestamp="1584280974346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584280974346" />
+    <state width="1493" height="57" key="GridCell.Tab.0.right" timestamp="1584280974346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584280974346" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1584264235450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584264235450" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1584264235450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584264235450" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1584264235450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584264235450" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1584264235450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584264235450" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1584106464270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584106464270" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1584262891236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584262891236" />
+    <state x="809" y="189" key="run.anything.popup" timestamp="1584018256670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584018256670" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584265793175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584265793175" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Gettingstarted$SwingForm.ic" NAME="SwingForm Coverage Results" MODIFIED="1584017126587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
